@@ -9,6 +9,8 @@ The Laravel project for managing clients is a comprehensive system designed to s
 
 The system provides functionalities such as client CRUD operations, interaction logging, communication tracking, and robust search capabilities, empowering businesses to efficiently manage client relationships and foster growth.
 
+
+Features and Database Schema:
 This Laravel project encompasses various features tailored to meet the diverse needs of client management. The database schema table is clients.
 
 Basically this website is about adding new clients, editing the information of clients, and deleting them.
